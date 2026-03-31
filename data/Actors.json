@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"zhujiao2","characterIndex":0,"characterName":"zhujiao","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"zhujiao","traits":[],"initialLevel":1,"maxLevel":99,"name":"小白","nickname":"","note":"","profile":"上天赐予人类的勇者"},
+{"id":2,"battlerName":"pengluyao","characterIndex":0,"characterName":"pengluyao","classId":3,"equips":[2,1,0,0,0],"faceIndex":0,"faceName":"pengluyao","traits":[],"initialLevel":1,"maxLevel":99,"name":"彭露瑶","nickname":"","note":"","profile":"神秘的少女,其真正的身份竟是..."}
+]

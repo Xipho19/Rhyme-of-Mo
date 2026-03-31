@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["EnemyBook open"]},{"code":0,"indent":0,"parameters":[]}],"name":"打开怪物图鉴","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["是否使用火把?"]},{"code":102,"indent":0,"parameters":[["是","否"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"是"]},{"code":126,"indent":1,"parameters":[14,1,0,1]},{"code":356,"indent":1,"parameters":["Light radius 1 #ffffff"]},{"code":356,"indent":1,"parameters":["Fire radius 200 #ffffff"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"否"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"火把","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":212,"indent":0,"parameters":[0,67,false]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

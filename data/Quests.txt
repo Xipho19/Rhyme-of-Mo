@@ -1,0 +1,26 @@
+﻿Text that appears outside of the <quest></quest> tags will not display anywhere and can be used for notes if required.
+
+// <quest id:Name of Quest|difficulty|catId>
+// OBJECTIVES separated by commas (leave this blank to not use objectives for a quest)
+// RESOLUTIONS separated by commas use | for line breaks (leave this blank if not using resolutions for a quest)
+// quest description
+// quest description
+// quest description
+// </quest>
+
+<quest 1:进入上锁的房子|1|0>
+\c[2]进入上锁的房子
+
+进入上锁的房子！
+</quest>
+
+<quest 2:寻找需要帮助的村民|2|1>
+\c[2]寻找需要帮助的村民,\c[2]帮助村民
+
+找到并帮助村民!
+</quest>
+
+<quest 3:询问城主|2|1>
+
+询问城主更多关于墨经残页信息！
+</quest>
