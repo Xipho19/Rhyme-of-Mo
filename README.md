@@ -90,11 +90,16 @@
 ## 📂 项目结构
 
 ```text
-index.html
-js/
-data/
-img/
 audio/
+bookshelf/
+data/
+fonts/
+icon/
+img/
+js/
+movies/
+index.html
+package.json
 ```
 
 ---
