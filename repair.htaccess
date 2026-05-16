@@ -1,0 +1,12 @@
+<IfModule mod_mime.c>
+  AddType font/ttf .ttf
+  AddType font/otf .otf
+  AddType application/font-woff .woff
+  AddType application/vnd.ms-fontobject .eot
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|otf|eot|woff)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
